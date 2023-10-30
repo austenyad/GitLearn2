@@ -19,6 +19,9 @@ object Util {
         return a - b
     }
     fun abcOne(a: Int, b: Int): Int {
+        return a + b
+    }
+    fun abcOneaa(a: Int, b: Int): Int {
         return a - b
     }
 }
