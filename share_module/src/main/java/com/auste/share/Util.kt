@@ -16,7 +16,7 @@ object Util {
     }
 
     fun minus(a: Int, b: Int): Int {
-        return a - b
+        return 0
     }
     fun abcOne(a: Int, b: Int): Int {
         return a - b
