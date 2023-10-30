@@ -12,6 +12,10 @@ package com.auste.share
 object Util {
 
     fun add(a: Int, b: Int): Int {
-        return a + b;
+        return a + b
+    }
+
+    fun minus(a: Int, b: Int): Int {
+        return a - b
     }
 }
